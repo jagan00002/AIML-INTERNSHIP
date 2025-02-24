@@ -1,5 +1,8 @@
 Customer Churn Prediction Web Application
+
+
 Overview
+
 This project is a Customer Churn Prediction web application developed as part of an AI/ML internship. It utilizes machine learning to predict whether a customer is likely to leave a service based on various factors such as account length, call duration, and international plan usage.
 
 The web application is built using Flask for the backend and serves a web-based user interface for predictions.
